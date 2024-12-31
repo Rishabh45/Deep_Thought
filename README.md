@@ -16,7 +16,5 @@ The document provides survey insights analyzed and visualized using Power BI, sh
 ### PDF
 ![PDF LINK](https://github.com/Rishabh45/Deep_Thought/blob/main/DP.pdf)
 
----
-### Live Dashboad Link
-#### Dashboard Link -  
+
 
