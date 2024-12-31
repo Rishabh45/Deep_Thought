@@ -10,5 +10,5 @@ The document provides survey insights analyzed and visualized using Power BI, sh
 
 ![](https://github.com/Rishabh45/Deep_Thought/blob/main/Dashboard.png)
 ### PDF
-![PDF LINK]((https://github.com/Rishabh45/Deep_Thought/blob/main/DP.pdf))
+![PDF LINK](https://github.com/Rishabh45/Deep_Thought/blob/main/DP.pdf)
 
