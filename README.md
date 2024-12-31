@@ -6,9 +6,17 @@ The document provides survey insights analyzed and visualized using Power BI, sh
 ---
 ### Data set
 #### Link - https://docs.google.com/spreadsheets/d/1pSbyAJtVan0dBbveJE2JB89vMXHZvbcEzKMvyhb9g-w/edit?usp=sharing
-#### Dashboard Image -
+
+---
+### Dashboard Image -
 
 ![](https://github.com/Rishabh45/Deep_Thought/blob/main/Dashboard.png)
+
+---
 ### PDF
 ![PDF LINK](https://github.com/Rishabh45/Deep_Thought/blob/main/DP.pdf)
+
+---
+### Live Dashboad Link
+#### Dashboard Link -  
 
